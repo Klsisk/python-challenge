@@ -13,7 +13,8 @@ The Python script will analyze the financial records to calculate each of the fo
 -	The greatest increase in profits (date and amount) over the entire period
 -	The greatest decrease in losses (date and amount) over the entire period
 
-### Analysis for PyBank
+### Analysis for PyBank:
+
 ![image](https://user-images.githubusercontent.com/69765842/103449263-c7aebe00-4c73-11eb-8183-132e3a484ba9.png)
 
 ### PyPoll
@@ -26,6 +27,7 @@ The Python script will analyze the votes and calculate each of the following:
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
 
-### Analysis for PyPoll
+### Analysis for PyPoll:
+
 ![image](https://user-images.githubusercontent.com/69765842/103449250-ae0d7680-4c73-11eb-913f-ae6928dbaf5c.png)
 
